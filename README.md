@@ -124,7 +124,7 @@ Este projeto utilizou IA generativa (Claude - Anthropic) como **ferramenta de au
 
 - [Everaldo Cardoso Silva]
 - [Andrey Diego Damasceno Nascimento]
-
+- [João Gabriel Valadares Texeira]
 
 ---
 
